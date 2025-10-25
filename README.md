@@ -6,6 +6,8 @@ i.Setup Steps:
   Step 3: Upload folder -- go to the HTML file.
   Step 4: Run it in a Live Server.
   Step 5: Alternatively, access the live version deployed on Netlify:https://68fcb6303dc01c453a9a0735--frontendtheme-project.netlify.app/
+
+  
 ii.TechStack Used
    --->Frontend:
        -HTML5
